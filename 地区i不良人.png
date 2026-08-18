@@ -62,6 +62,18 @@
         "token": "0e4bdd6893d319dcd405b6b06890debfd94fc4676702613921b05682f488dd8c"
       }
     },
+    {
+      "key": "高清点播·Tshen【xiaosayeydanshanl",
+      "name": "❤糕轻丨4K线",
+      "type": 3,
+      "api": "https://gh-proxy.com/raw.githubusercontent.com/IY-CPU/IY/main/lib/gq.js"
+    },
+    {
+      "key": "云朵·Tshen【xiaosayeydanshanl",
+      "name": "❤云朵丨4K线",
+      "type": 3,
+      "api": "https://gh-proxy.com/raw.githubusercontent.com/IY-CPU/IY/main/lib/yd.py"
+    },
      {
       "key": "4K影院·Tshen",
       "name": "❤光影丨4K线",
