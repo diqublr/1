@@ -1,5 +1,5 @@
 {
-  "spider": "https://imgaly.51shazhu.com/autoupload/g1b6f/20260817/Qmoc/0X0/08171001.png;md5;a148eb406043b0f99999014a9c961b32",
+  "spider": "https://img2.tofaka.com/autoupload/f/ksy67/20260824/rEiD/0X0/0824.png;md5;767f103c613c9eca20845c4934f2d976",
   "wallpaper": "https://pan.uvqzu.cn/f/06YTP/%E4%B8%8D%E8%89%AF%E4%BA%BA%E5%A3%81%E7%BA%B8.png",
   "danmaku": "http://127.0.0.1:9978/proxy?do=danmaku&name={name}&episode={episode}",
   "logo": "https://tencentcdna.production.link3.cc/user_create_images/link3_1729214547406/picsingle/1784287232831",
@@ -37,32 +37,6 @@
       "ext": "https://wp.kayyw.com/f/kOaxt0/腾T.png"
     },
     {
-      "key": "星河·Tshen",
-      "name": "❤星河丨4K线",
-      "type": 3,
-      "api": "https://gh-proxy.com/raw.githubusercontent.com/IY-CPU/IY/main/lib/get.js",
-      "ext": {
-        "host": "https://daen-1256234123.cos.ap-shanghai.myqcloud.com/MuQi/mqxhqj.txt",
-        "key": "kj37zs29q22jk96t",
-        "init": "V122",
-        "api": 2,
-        "ua": "okhttp/3.10.0"
-      }
-    },
-    {
-      "key": "秒看·Tshen【xiaosayey",
-      "name": "❤秒看丨4K线",
-      "type": 3,
-      "api": "csp_AppGet",
-      "playerType": 2,
-      "ext": {
-        "url": "https://mk1080.top/",
-        "dataKey": "c60d88b2eep53za8",
-        "dataIv": "c60d88b2eep53za8",
-        "token": "0e4bdd6893d319dcd405b6b06890debfd94fc4676702613921b05682f488dd8c"
-      }
-    },
-    {
       "key": "高清点播·Tshen【xiaosayeydanshanl",
       "name": "❤糕轻丨4K线",
       "type": 3,
@@ -73,6 +47,12 @@
       "name": "❤云朵丨4K线",
       "type": 3,
       "api": "https://gh-proxy.com/raw.githubusercontent.com/IY-CPU/IY/main/lib/yd.py"
+    },
+    {
+      "key": "多多·Tshen",
+      "name": "❤秒看丨4K线",
+      "type": 3,
+      "api": "https://gh-proxy.com/raw.githubusercontent.com/IY-CPU/IY/main/lib/dd.py"
     },
      {
       "key": "4K影院·Tshen",
@@ -221,12 +201,12 @@
       "ext": {
         "appName": "橘汁",
         "publicKey": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCr8SzZhjYy+rsya1K09t8d2K50pWFoBkgUqMpKOiW+3IEVKd4eTdvg9RSOjQ82kypL6R9BnsmrS1V8s4PVDwjQbUtYhTPPC9Hz16qY7rpD6m0d2vr09/UpWQ5uOy9PR0QTrsioveZ+DIe9jc3C+zBCu/kZSY/R8stwJoiitki3gwIDAQAB",
-        "dataKey": "DGVQRUX5R1LWWDLHTGJSUKG1DJRVPQ==",
+        "dataKey": "OW1WBLFZCLJ0WTNJCDMYEGXWYVP3PT0=",
         "dataIv": "OC1A06E197EF10CF3F6058CA7A803B5E",
-        "pkg": "com.lxf.snzlcgtzxyx",
+        "pkg": "com.mxj.wylcjbxyx",
         "host": "",
         "site": "https://123-1349250429.cos.ap-shanghai.myqcloud.com/app.txt",
-        "version": "3.0.2.1",
+        "version": "3.0.2.3",
         "decrypt": "1"
       }
     },
@@ -273,7 +253,7 @@
     {
       "key": "蓝鹰",
       "name": "❤蓝鹰丨4K线",
-      "type": 3,
+       "type": 3,
       "api": "csp_AppQi",
       "searchable": 1,
       "changeable": 1,
@@ -283,6 +263,37 @@
         "dataIv": "hagYExMdMkeWfemK",
         "init": "initV122",
         "ua": "okhttp/3.10.0"
+      }
+    },
+    {
+      "key": "蓝鸟",
+      "name": "❤蓝鸟丨4K线",
+      "type": 3,
+      "api": "csp_AppQi",
+      "searchable": 1,
+      "changeable": 1,
+      "ext": {
+        "site": "https://lanyingjisu.oss-cn-wuhan-lr.aliyuncs.com/lyjszx.txt",
+        "dataKey": "oW5UxZ5kWVr1DI69",
+        "dataIv": "oW5UxZ5kWVr1DI69",
+        "init": "initV122",
+        "ua": "okhttp/3.10.0"
+      }
+    },
+     {
+      "key": "奇奇",
+      "name": "❤奇奇丨4K线",
+      "type": 3,
+      "api": "csp_AppQi",
+      "searchable": 1,
+      "changeable": 1,
+      "ext": {
+        "site": "https://yun-1316442804.cos.ap-guangzhou.myqcloud.com/603.txt",
+        "dataKey": "FTgP4Gq8zPiqbt7M",
+        "dataIv": "FTgP4Gq8zPiqbt7M",
+        "init": "initV122",
+        "ua": "okhttp/3.10.0",
+        "search": "searchList8"
       }
     },
     {
@@ -301,9 +312,22 @@
       }
     },
     {
+      "key": "世界",
+      "name": "❤世界丨4K线",
+      "type": 3,
+      "api": "csp_AppGet",
+      "searchable": 1,
+      "changeable": 1,
+      "ext": {
+        "url": "https://appcms.4ksj.app",
+        "dataKey": "O3K6rYx75Q4xtiIE",
+        "dataIv": "O3K6rYx75Q4xtiIE"
+      }
+    },
+    {
       "key": "魔方",
       "name": "❤魔方丨4K线",
-      "type": 3,
+       "type": 3,
       "api": "csp_AppGet",
       "searchable": 1,
       "changeable": 1,
@@ -347,7 +371,7 @@
     {
       "key": "哔哩视频",
       "name": "🅱哔哩丨官方",
-      "type": 3,
+       "type": 3,
       "api": "csp_BiliYS",
       "searchable": 1,
       "quickSearch": 0,
@@ -367,7 +391,7 @@
       "type": 3,
       "api": "csp_SP360"
     },
-    {
+     {
       "key": "七猫短剧",
       "name": "七猫 • 短剧",
       "type": 3,
@@ -451,7 +475,7 @@
     {
       "key": "金牌影视",
       "name": "🌀金牌丨1920",
-      "type": 3,
+       "type": 3,
       "api": "csp_Jpys",
       "ext": "https://y2s52n7.com,https://m.hkybqufgh.com,https://m.sizhengxt.com,https://m.9zhoukj.com,https://m.sizhengxt.com,https://m.jiabaide.cn"
     },
@@ -694,12 +718,14 @@
       "filterable": 1,
       "ext": "https://wget.la/https://raw.githubusercontent.com/PizazzGY/NewTVBox/main/magnet/json/DYG.json"
     },
-    {
+     {
       "key": "88看球",
       "name": "88看球",
       "type": 3,
-      "api": "csp_Kanqiu",
-      "gridview": 3,
+      "api": "csp_Sports88",
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
       "style": {
         "type": "list"
       }
@@ -708,7 +734,10 @@
       "key": "球通体育",
       "name": "球通体育",
       "type": 3,
-      "api": "csp_QiutongTY",
+      "api": "csp_SportsQiutong",
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
       "style": {
         "type": "list"
       }
@@ -717,7 +746,10 @@
       "key": "瓜子体育",
       "name": "瓜子体育",
       "type": 3,
-      "api": "csp_GuaziTY",
+      "api": "csp_SportsGuazi",
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
       "style": {
         "type": "list"
       }
@@ -726,10 +758,19 @@
       "key": "咖啡体育",
       "name": "咖啡体育",
       "type": 3,
-      "api": "csp_KafeiTY",
+      "api": "csp_SportsKafei",
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
       "style": {
         "type": "list"
       }
+    },
+    {
+      "name": "TZ",
+      "key": "TZ",
+      "type": 3,
+      "api": "csp_tz"
     },
     {
       "key": "push_agent",
