@@ -1,5 +1,5 @@
 {
-  "spider": "https://img2.tofaka.com/autoupload/f/ksy67/20260824/rEiD/0X0/0824.png;md5;767f103c613c9eca20845c4934f2d976",
+  "spider": "https://img2.tofaka.com/autoupload/f/ksy67/20260826/k3De/0X0/0826.png;md5;a1267b1ac5abc75d5bc5073f4d5985fc",
   "wallpaper": "https://pan.uvqzu.cn/f/06YTP/%E4%B8%8D%E8%89%AF%E4%BA%BA%E5%A3%81%E7%BA%B8.png",
   "danmaku": "http://127.0.0.1:9978/proxy?do=danmaku&name={name}&episode={episode}",
   "logo": "https://tencentcdna.production.link3.cc/user_create_images/link3_1729214547406/picsingle/1784287232831",
@@ -35,12 +35,6 @@
       "type": 3,
       "api": "https://gh-proxy.com/raw.githubusercontent.com/IY-CPU/IY/main/lib/drpy2.min.js",
       "ext": "https://wp.kayyw.com/f/kOaxt0/腾T.png"
-    },
-    {
-      "key": "高清点播·Tshen【xiaosayeydanshanl",
-      "name": "❤糕轻丨4K线",
-      "type": 3,
-      "api": "https://gh-proxy.com/raw.githubusercontent.com/IY-CPU/IY/main/lib/gq.js"
     },
     {
       "key": "云朵·Tshen【xiaosayeydanshanl",
@@ -108,6 +102,19 @@
       "api": "csp_LocalFile"
     },
     {
+      "key": "星河·哈jm",
+      "name": "❤星河丨4K线",
+      "type": 3,
+      "api": "https://fastlink.cokey.xyz/f/nLaNhm/get.js",
+      "ext": {
+        "host": "http://110.42.67.130:1226",
+        "key": "kj37zs29q22jk96t",
+        "init": "V122",
+        "api": 2,
+        "ua": "okhttp/3.10.0"
+      }
+    },
+    {
       "key": "裤佬EmbyJS·哈jm",
       "name": "❤Emby丨4K线",
       "type": 3,
@@ -136,22 +143,6 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
-    },
-    {
-      "key": "马猴影视",
-      "name": "❤马猴丨4K线",
-      "type": 3,
-      "api": "csp_App3Q",
-      "ext": {
-        "host": "https://45.150.167.18:8000",
-        "finger": "SF-A962FEC75DA28D7514F2A16580334272A78AC0A8429F10C94F47C1BAFC876E3F",
-        "updateId": "43c1ef69-3748-aaeb-317f-c621c77653ee",
-        "deviceBrand": "vivo",
-        "deviceModel": "V2309A",
-        "pkg": "com.damahou.tv",
-        "sk": "SK-woniu-thanks",
-        "ver": "1"
-      }
     },
     {
       "key": "韩圈",
@@ -251,6 +242,21 @@
       }
     },
     {
+      "key": "怀桑",
+      "name": "❤怀桑丨4K线",
+       "type": 3,
+      "api": "csp_AppQi",
+      "searchable": 1,
+      "changeable": 1,
+      "ext": {
+        "url": "http://110.42.67.130:1226",
+        "dataKey": "kj37zs29q22jk96t",
+        "dataIv": "kj37zs29q22jk96t",
+        "init": "initV122",
+        "ua": "okhttp/3.10.0"
+      }
+    },
+    {
       "key": "蓝鹰",
       "name": "❤蓝鹰丨4K线",
        "type": 3,
@@ -294,21 +300,6 @@
         "init": "initV122",
         "ua": "okhttp/3.10.0",
         "search": "searchList8"
-      }
-    },
-    {
-      "key": "怀桑",
-      "name": "❤怀桑丨4K线",
-      "type": 3,
-      "api": "csp_AppQi",
-      "searchable": 1,
-      "changeable": 1,
-      "ext": {
-        "site": "https://daen-1256234123.cos.ap-shanghai.myqcloud.com/MuQi/mqxhqj.txt",
-        "dataKey": "kj37zs29q22jk96t",
-        "dataIv": "kj37zs29q22jk96t",
-        "init": "initV122",
-        "ua": "okhttp/3.10.0"
       }
     },
     {
@@ -510,18 +501,6 @@
       "filterable": 1
     },
     {
-      "key": "小镇2影视",
-      "name": "🌀小镇丨1920",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "ext": {
-        "线路数组": "<a data-toggle=\"tab\"&&/a>",
-        "线路标题": ">&&<",
-        "分类url": "http://dyxz.tv/list/{cateId}_{catePg}.html",
-        "分类": "电影$1#电视剧$2#动漫$3#综艺$4"
-      }
-    },
-    {
       "key": "永乐影视",
       "name": "🌀永乐丨1920",
        "type": 3,
@@ -563,33 +542,19 @@
     },
     {
       "key": "双星99",
-      "name": "双星4K线",
+      "name": "❤双星丨4K线",
       "type": 3,
       "api": "csp_App99",
       "ext": {
-        "host": "http://175.178.65.250:19987/app/bn",
+        "host": "http://111.180.139.119:19987/app/bn",
         "LoginPath": "/app/log",
         "appkey": "f66f65db127e48449f073c2c6eb0f993",
-        "versionName": "6.4.5",
+        "versionName": "6.4.9",
         "name": "双子星动漫",
-        "package": "com.yingfu.mobile.android.pgsp",
-        "buildNumber": "2003",
-        "buildSignature": "054FA8DDA4319C6B6A9B954CA5777541C993F00B1B0BD4394F7EDE48184C4594"
+        "package": "com.haiwang.liangxia.my.ym",
+        "buildNumber": "2001",
+        "buildSignature": "A40DA80A59D170CAA950CF15C18C454D47A39B26989D8B640ECD745BA71BF5DC"
       }
-    },
-    {
-      "key": "喵呜动漫",
-      "name": "喵呜动漫",
-      "type": 3,
-      "searchable": 1,
-      "api": "csp_MiaoWu"
-    },
-    {
-      "key": "魔都动漫",
-      "name": "魔都动漫",
-      "type": 3,
-      "searchable": 1,
-      "api": "csp_MoDu"
     },
     {
       "key": "漫国动漫",
